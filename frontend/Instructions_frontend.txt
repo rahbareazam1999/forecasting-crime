@@ -1,0 +1,13 @@
+
+There are three main files in the frontend folder:
+
+
+1. Templates folder: a folder for all the Jinja/html templates for Flask
+
+2. Static: a javascript file for charts
+
+3. flask_frontend_crime.py: A python file with the code to run the website
+
+
+
+
